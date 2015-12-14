@@ -15,11 +15,11 @@ public class Main {
 		float a = Float.parseFloat(s1)+Float.parseFloat(s2);
 		System.out.println(s1 + "+" + s2 + "=" + a);
 		float b = Float.parseFloat(s1)-Float.parseFloat(s2);
-		System.out.println(s1 + "-" + s2 + "=" + a);
+		System.out.println(s1 + "-" + s2 + "=" + b);
 		float c = Float.parseFloat(s1)*Float.parseFloat(s2);
-		System.out.println(s1 + "*" + s2 + "=" + a);
+		System.out.println(s1 + "*" + s2 + "=" + c);
 		float d = Float.parseFloat(s1)/Float.parseFloat(s2);
-		System.out.println(s1 + "/" + s2 + "=" + a);
+		System.out.println(s1 + "/" + s2 + "=" + d);
 
 	}
 
